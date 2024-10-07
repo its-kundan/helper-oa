@@ -1,5 +1,5 @@
 
-```markdown
+
 # Helper OA ( Online Contest Helper)
 
 Online Contest Helper is a Next.js application designed to aid contestants in preparing and participating in coding contests. It offers a range of tools and resources to enhance coding skills and manage contest schedules effectively.
